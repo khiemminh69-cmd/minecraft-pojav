@@ -1,4 +1,4 @@
-# mods
+# Mods Pojav Launcher
 Đây là danh sách các mod tối ưu hóa hiệu năng (Performance) và tiện ích cực kỳ phổ biến cho Minecraft (phiên bản 1.21.4) chạy trên Fabric.
 Dưới đây là chi tiết công dụng của từng mod trong danh sách của bạn:
 ### 1. Nhóm tối ưu hóa đồ họa & FPS
